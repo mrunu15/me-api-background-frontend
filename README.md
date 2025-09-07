@@ -110,6 +110,8 @@ export const SEARCH_URL = `${API_BASE}/api/search`;
 
 All frontend components fetch data dynamically from backend.
 
+resume link: https://drive.google.com/file/d/1xb2dpB_sUFgj0907sZyHxcQE-T0y7xxt/view?usp=drive_link
+
 
 
 
